@@ -1,1 +1,1 @@
-This is a romote file created in remote repository.
+This is a remote file created in remote repository.
